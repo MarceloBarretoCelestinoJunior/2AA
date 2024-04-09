@@ -13,5 +13,7 @@ echo '<br>';
 foreach ($car as $x => $y){
     echo "$x: $y <br>";
 }
+echo '<br>';
 
+echo 'teste';
 ?>
